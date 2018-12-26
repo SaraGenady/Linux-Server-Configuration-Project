@@ -90,6 +90,7 @@ Linux Server Configuration Project
   - Add the following.
 
     grader ALL=(ALL) NOPASSWD:ALL 
+    
 11- Create an SSH key pair for grader using the ssh-keygen tool
 
    ssh-keygen -t rsa
